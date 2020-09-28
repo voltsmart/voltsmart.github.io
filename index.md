@@ -4,11 +4,11 @@ We are a San Diego-based startup focused on expanding adoption of energy-efficie
 
 # The Team
 
-RMS is a group of like minded San Diegans passionate about non-profits that improve the world
+RMS is an interdisciplinary group of San Diegans whose combined expertise empowers them to create new technologies that bring broad social impacts.
 
 ### Parker Rogers
 
-**The ideas guy**:
+**The ideas guy**: As an Economics Ph.D. Candidate at UC San Diego, Parker analyzes how consumers respond to energy prices. Parker's training positions him to craft incentives that lead consumers to make better long-term choices.
 
 ### Aidan Macdonald
 
