@@ -16,7 +16,7 @@ RMS is an interdisciplinary group of San Diegans whose combined expertise empowe
 
 ### Ryjul Stokes
 
-**The executor**:
+**The executor**: Chemist by training, Ryjul bring analytics to the business practice.
 
 # How we contribute
 
